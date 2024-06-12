@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_garnet.mk
+    $(LOCAL_DIR)/pb_garnet.mk
